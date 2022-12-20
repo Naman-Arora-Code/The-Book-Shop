@@ -1,0 +1,72 @@
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.deps.json
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.json
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.dev.json
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfoInputs.cache
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfo.cs
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CoreCompileInputs.cache
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.genruntimeconfig.cache
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.AssemblyReference.cache
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.pdb
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CopyComplete
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.deps.json
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.json
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.dev.json
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.pdb
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.AssemblyReference.cache
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfoInputs.cache
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfo.cs
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CoreCompileInputs.cache
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CopyComplete
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+E:\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.genruntimeconfig.cache
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.deps.json
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.json
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.dev.json
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.pdb
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csprojAssemblyReference.cache
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfoInputs.cache
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfo.cs
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CoreCompileInputs.cache
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CopyComplete
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.genruntimeconfig.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.deps.json
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.json
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.runtimeconfig.dev.json
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.dll
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\BookShopping_Project_130.Model.pdb
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.AssemblyReference.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfoInputs.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.AssemblyInfo.cs
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CoreCompileInputs.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.csproj.CopyComplete
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.dll
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.pdb
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\obj\Debug\net5.0\BookShopping_Project_130.DataAccess.genruntimeconfig.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.DataAccess\bin\Debug\net5.0\ref\BookShopping_Project_130.DataAccess.dll

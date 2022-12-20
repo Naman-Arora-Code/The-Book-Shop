@@ -1,0 +1,2 @@
+D:\IFT\PROJECT\BookShopping_Project_130\obj\x86\Debug\The_Book_Shop.csproj.AssemblyReference.cache
+D:\IFT\PROJECT\BookShopping_Project_130\obj\x86\Debug\The_Book_Shop.csproj.CoreCompileInputs.cache

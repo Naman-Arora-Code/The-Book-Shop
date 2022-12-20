@@ -1,0 +1,48 @@
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.deps.json
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfoInputs.cache
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfo.cs
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csproj.CoreCompileInputs.cache
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+D:\aspdotnetcore\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csproj.AssemblyReference.cache
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.deps.json
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csproj.AssemblyReference.cache
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfoInputs.cache
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfo.cs
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csproj.CoreCompileInputs.cache
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
+E:\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.deps.json
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csprojAssemblyReference.cache
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.GeneratedMSBuildEditorConfig.editorconfig
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfoInputs.cache
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfo.cs
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csproj.CoreCompileInputs.cache
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
+G:\asp.net core\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.deps.json
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.dll
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csproj.AssemblyReference.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfoInputs.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.AssemblyInfo.cs
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.csproj.CoreCompileInputs.cache
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.dll
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\obj\Debug\net5.0\BookShopping_Project_130.Utility.pdb
+D:\IFT\PROJECT\BookShopping_Project_130\BookShopping_Project_130.Utility\bin\Debug\net5.0\ref\BookShopping_Project_130.Utility.dll
